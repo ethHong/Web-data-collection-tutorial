@@ -9,6 +9,7 @@
 폴더를 내려받은 후, 디렉토리에 접근 후 아래와 같이 가상환경으 설정해주세요
 ~~~
 #가상환경 생성 및 진입
+>> cd Web-data-collection-tutorial
 >> pip install pipenv
 >> pipenv --three
 >> pipenv shell
