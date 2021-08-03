@@ -18,3 +18,8 @@
 >> pipenv install
 ~~~
 virtualenv 사용을 위해 추후 requirements.txt 도 업데이트하 예정입니다. 
+
+## 업데이트 내역
+* Part 1 - Documents 에 PPT 업로드
+* BS4_practice: Part 1 에서 bs4로 html 다루기 ipynb 업로드
+* appstore_collection: 크롤링 예시로 앱스토어 평점 수집 코드 업로드 (https://github.com/ethHong/Appstore_rating_collection 와 같은 코드)
