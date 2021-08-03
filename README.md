@@ -17,7 +17,7 @@
 #Pipfile.lock에서 패키지 설치
 >> pipenv install
 ~~~
-virtualenv 사용을 위해 추후 requirements.txt 도 업데이트하 예정입니다. 
+virtualenv 사용을 위해 추후 requirements.txt 도 업데이트할 예정입니다. 
 
 ## 업데이트 내역
 20.08.03
