@@ -20,7 +20,12 @@
 virtualenv 사용을 위해 추후 requirements.txt 도 업데이트할 예정입니다. 
 
 ## 업데이트 내역
-20.08.03
+21.08.16
+* Part 2 - Documents 에 PPT 업로드
+* Selenium_practice : Part 2 의 Selenium tutorial 위한 파일 업로드
+* coursera_crawler :  참고를 위한 coursera 크롤링 코드 업로드 - (https://github.com/ethHong/Selenium_Coursera_crawler 와 같은 코드)
+
+21.08.03
 * Part 1 - Documents 에 PPT 업로드
 * BS4_practice: Part 1 에서 bs4로 html 다루기 ipynb 업로드
 * appstore_collection: 크롤링 예시로 앱스토어 평점 수집 코드 업로드 (https://github.com/ethHong/Appstore_rating_collection 와 같은 코드)
